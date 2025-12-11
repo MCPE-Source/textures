@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "title": "Faithful 32x",
+    "version": "0.7.6",
+    "short_description": "Faithful 32x texture pack for Minecraft PE 0.7x",
+    "full_description": "Faithful 32x texture pack for Minecraft PE 0.7x",
+    "thumbnail": "data\/0.7.6\/Faithful 32x\/thumb.jpg",
+    "file": "data\/0.7.6\/Faithful 32x\/Faithful 32x.zip",
+    "date": "2025-12-11 17:44",
+    "type": "textures",
+    "alt_link": "http:\/\/www.mediafire.com\/download\/vfe4k32k956v3a1\/faithful_0.7.2.zip",
+    "original_link": "http:\/\/www.nostalgiaforum.rf.gd\/index.php?threads\/104\/",
+    "author": {
+      "name": "eqozqq",
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/112166693?v=4"
+    },
+    "screenshots": [
+      "data\/0.7.6\/Faithful 32x\/screen_1.jpg",
+      "data\/0.7.6\/Faithful 32x\/screen_2.jpg"
+    ]
+  }
+]
