@@ -18,5 +18,25 @@
       "data\/0.7.6\/Faithful 32x\/screen_1.jpg",
       "data\/0.7.6\/Faithful 32x\/screen_2.jpg"
     ]
+  },
+  {
+    "title": "Nether Earth",
+    "version": "0.8.1",
+    "short_description": "This is a texturepack designed to take the feel of the nether and add it to the normal world.",
+    "full_description": "This is a texturepack designed to take the feel of the nether and add it to the normal world.\n\nNow you can get that bloody scary feeling you have every time you enter the nether.",
+    "thumbnail": "data\/0.8.1\/Nether Earth\/thumb.jpg",
+    "file": "data\/0.8.1\/Nether Earth\/Nether Earth.zip",
+    "date": "2025-12-11 18:41",
+    "type": "textures",
+    "alt_link": "https:\/\/www.dropbox.com\/s\/y7s8ewzmrxyaysz\/Nether%20Earth%20Pocket%20Edition%200.8.1.zip",
+    "original_link": "http:\/\/www.nostalgiaforum.rf.gd\/index.php?threads\/230\/",
+    "author": {
+      "name": "eqozqq",
+      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/112166693?v=4"
+    },
+    "screenshots": [
+      "data\/0.8.1\/Nether Earth\/screen_1.jpg",
+      "data\/0.8.1\/Nether Earth\/screen_2.jpg"
+    ]
   }
 ]
