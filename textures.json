@@ -4,19 +4,19 @@
     "version": "0.7.6",
     "short_description": "Faithful 32x texture pack for Minecraft PE 0.7x",
     "full_description": "Faithful 32x texture pack for Minecraft PE 0.7x",
-    "thumbnail": "data\/0.7.6\/Faithful 32x\/thumb.jpg",
-    "file": "data\/0.7.6\/Faithful 32x\/Faithful 32x.zip",
+    "thumbnail": "data/0.7.6/Faithful 32x/thumb.jpg",
+    "file": "data/0.7.6/Faithful 32x/Faithful 32x.zip",
     "date": "2025-12-11 17:44",
     "type": "textures",
-    "alt_link": "http:\/\/www.mediafire.com\/download\/vfe4k32k956v3a1\/faithful_0.7.2.zip",
-    "original_link": "http:\/\/www.nostalgiaforum.rf.gd\/index.php?threads\/104\/",
+    "alt_link": "http://www.mediafire.com/download/vfe4k32k956v3a1/faithful_0.7.2.zip",
+    "original_link": "http://www.nostalgiaforum.rf.gd/index.php?threads/104/",
     "author": {
       "name": "eqozqq",
-      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/112166693?v=4"
+      "avatar": "https://avatars.githubusercontent.com/u/112166693?v=4"
     },
     "screenshots": [
-      "data\/0.7.6\/Faithful 32x\/screen_1.jpg",
-      "data\/0.7.6\/Faithful 32x\/screen_2.jpg"
+      "data/0.7.6/Faithful 32x/screen_1.jpg",
+      "data/0.7.6/Faithful 32x/screen_2.jpg"
     ]
   },
   {
@@ -24,19 +24,40 @@
     "version": "0.8.1",
     "short_description": "This is a texturepack designed to take the feel of the nether and add it to the normal world.",
     "full_description": "This is a texturepack designed to take the feel of the nether and add it to the normal world.\n\nNow you can get that bloody scary feeling you have every time you enter the nether.",
-    "thumbnail": "data\/0.8.1\/Nether Earth\/thumb.jpg",
-    "file": "data\/0.8.1\/Nether Earth\/Nether Earth.zip",
+    "thumbnail": "data/0.8.1/Nether Earth/thumb.jpg",
+    "file": "data/0.8.1/Nether Earth/Nether Earth.zip",
     "date": "2025-12-11 18:41",
     "type": "textures",
-    "alt_link": "https:\/\/www.dropbox.com\/s\/y7s8ewzmrxyaysz\/Nether%20Earth%20Pocket%20Edition%200.8.1.zip",
-    "original_link": "http:\/\/www.nostalgiaforum.rf.gd\/index.php?threads\/230\/",
+    "alt_link": "https://www.dropbox.com/s/y7s8ewzmrxyaysz/Nether%20Earth%20Pocket%20Edition%200.8.1.zip",
+    "original_link": "http://www.nostalgiaforum.rf.gd/index.php?threads/230/",
     "author": {
       "name": "eqozqq",
-      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/112166693?v=4"
+      "avatar": "https://avatars.githubusercontent.com/u/112166693?v=4"
     },
     "screenshots": [
-      "data\/0.8.1\/Nether Earth\/screen_1.jpg",
-      "data\/0.8.1\/Nether Earth\/screen_2.jpg"
+      "data/0.8.1/Nether Earth/screen_1.jpg",
+      "data/0.8.1/Nether Earth/screen_2.jpg"
+    ]
+  },
+  {
+    "title": "BoxCraft",
+    "version": "0.11.0",
+    "short_description": "Texture pack with a minimalist style, as almost all blocks become uniform, which looks quite beautiful",
+    "full_description": "**BoxCraft** is a texture pack with a minimalist style, as almost all blocks become uniform, which looks quite beautiful. True, all ores will now look a bit unusual, but it’s easy to get used to.\n\n**How to install BoxCraft:**\n1. Download and install Block Launcher.\n2. Download the texture pack using the link below.\n3. Launch Block Launcher and tap the icon at the top of the screen.\n4. Tap “BL Settings” → “Texture Pack” → “Import” → “Phone Storage”.\n5. Select the texture pack file.\n6. Done.",
+    "thumbnail": "data/0.11.0/BoxCraft/thumb_1766603638763.jpg",
+    "file": "data/0.11.0/BoxCraft/BoxCraft.zip",
+    "date": "2025-12-24 21:14",
+    "type": "textures",
+    "alt_link": "https://mcpe-inside.ru/download/6/",
+    "original_link": "https://mcpe-inside.ru/texture-packs/3-boxcraft.html",
+    "author": {
+      "name": "eqozqq",
+      "avatar": "https://avatars.githubusercontent.com/u/112166693?v=4"
+    },
+    "screenshots": [
+      "data/0.11.0/BoxCraft/screen_1_1766603642256.jpg",
+      "data/0.11.0/BoxCraft/screen_2_1766603644206.jpg",
+      "data/0.11.0/BoxCraft/screen_3_1766603646083.jpg"
     ]
   }
 ]
