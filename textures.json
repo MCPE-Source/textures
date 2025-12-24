@@ -43,7 +43,7 @@
     "title": "BoxCraft",
     "version": "0.11.0",
     "short_description": "Texture pack with a minimalist style, as almost all blocks become uniform, which looks quite beautiful",
-    "full_description": "**BoxCraft** is a texture pack with a minimalist style, as almost all blocks become uniform, which looks quite beautiful. True, all ores will now look a bit unusual, but it’s easy to get used to.\n\n**How to install BoxCraft:**\n1. Download and install Block Launcher.\n2. Download the texture pack using the link below.\n3. Launch Block Launcher and tap the icon at the top of the screen.\n4. Tap “BL Settings” → “Texture Pack” → “Import” → “Phone Storage”.\n5. Select the texture pack file.\n6. Done.",
+    "full_description": "**BoxCraft** is a texture pack with a minimalist style, as almost all blocks become uniform, which looks quite beautiful. True, all ores will now look a bit unusual, but itâs easy to get used to.\n\n**How to install BoxCraft:**\n1. Download and install Block Launcher.\n2. Download the texture pack using the link below.\n3. Launch Block Launcher and tap the icon at the top of the screen.\n4. Tap âBL Settingsâ â âTexture Packâ â âImportâ â âPhone Storageâ.\n5. Select the texture pack file.\n6. Done.",
     "thumbnail": "data/0.11.0/BoxCraft/thumb_1766603638763.jpg",
     "file": "data/0.11.0/BoxCraft/BoxCraft.zip",
     "date": "2025-12-24 21:14",
@@ -58,6 +58,25 @@
       "data/0.11.0/BoxCraft/screen_1_1766603642256.jpg",
       "data/0.11.0/BoxCraft/screen_2_1766603644206.jpg",
       "data/0.11.0/BoxCraft/screen_3_1766603646083.jpg"
+    ]
+  },
+  {
+    "title": "3D Textures",
+    "version": "0.12.3, 0.11.0",
+    "short_description": "3D Textures look like relief (raised) textures, while at the same time having a fairly high resolution [64×64].",
+    "thumbnail": "data/0.12.3/3D Textures/thumb_1766604620837.jpg",
+    "file": "data/0.12.3/3D Textures/3D Textures.zip",
+    "date": "2025-12-24 21:30",
+    "type": "textures",
+    "alt_link": "https://mcpe-inside.ru/download/17/",
+    "original_link": "https://mcpe-inside.ru/texture-packs/13-3d-textures.html",
+    "author": {
+      "name": "eqozqq",
+      "avatar": "https://avatars.githubusercontent.com/u/112166693?v=4"
+    },
+    "screenshots": [
+      "data/0.12.3/3D Textures/screen_1_1766604623026.jpg",
+      "data/0.12.3/3D Textures/screen_2_1766604624917.jpg"
     ]
   }
 ]
