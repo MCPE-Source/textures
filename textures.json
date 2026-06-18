@@ -130,5 +130,21 @@
     "file": "data/0.8.1/R3dCraft/R3dCraft.zip",
     "alt_link": "https://minecraft-pe.clan.su/load/0-0-0-34-20",
     "original_link": "http://www.nostalgiaforum.rf.gd/index.php?threads/305/"
+  },
+  {
+    "title": "Derivation RPG",
+    "version": "0.8.1",
+    "short_description": "Derivation RPG texture pack",
+    "full_description": "",
+    "date": "2026-06-18 15:00",
+    "type": "textures",
+    "author": {
+      "name": "eqozqq",
+      "avatar": "https://avatars.githubusercontent.com/u/112166693?v=4"
+    },
+    "thumbnail": "data/0.8.1/Derivation RPG/thumb_1781794833839.jpg",
+    "file": "data/0.8.1/Derivation RPG/Derivation RPG.zip",
+    "alt_link": "http://www.nostalgiaforum.rf.gd/index.php?threads/289/",
+    "original_link": "https://wc3-maps.ru/load/vse_dlja_minecraft_pocket_edition_pe/tekstury_dlja_minecraft_pe/derivation_rpg/291-1-0-29698"
   }
 ]
