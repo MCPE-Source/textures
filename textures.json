@@ -168,5 +168,24 @@
     ],
     "alt_link": "https://drive.google.com/file/d/1-7iKA_RSDnaUOl9slUBwXgEnuvlun8La/view?usp=drivesdk",
     "original_link": "http://www.nostalgiaforum.rf.gd/index.php?threads/10/"
+  },
+  {
+    "title": "Smootic PE",
+    "version": "0.8.1",
+    "short_description": "Smootic PE for MCPE 0.8.1",
+    "full_description": "",
+    "date": "2026-06-18 15:05",
+    "type": "textures",
+    "author": {
+      "name": "eqozqq",
+      "avatar": "https://avatars.githubusercontent.com/u/112166693?v=4"
+    },
+    "thumbnail": "data/0.8.1/Smootic PE/thumb_1781795124841.jpg",
+    "file": "data/0.8.1/Smootic PE/Smootic PE.zip",
+    "screenshots": [
+      "data/0.8.1/Smootic PE/screen_1_1781795126838.jpg"
+    ],
+    "alt_link": "http://www.nostalgiaforum.rf.gd/index.php?attachments/109/",
+    "original_link": "http://www.nostalgiaforum.rf.gd/index.php?threads/66/"
   }
 ]
