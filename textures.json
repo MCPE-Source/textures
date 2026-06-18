@@ -12,7 +12,7 @@
     "original_link": "http://www.nostalgiaforum.rf.gd/index.php?threads/104/",
     "author": {
       "name": "eqozqq",
-      "avatar": "https://avatars.githubusercontent.com/u/112166693?v\u003d4"
+      "avatar": "https://avatars.githubusercontent.com/u/112166693?v=4"
     },
     "screenshots": [
       "data/0.7.6/Faithful 32x/screen_1.jpg",
@@ -32,7 +32,7 @@
     "original_link": "http://www.nostalgiaforum.rf.gd/index.php?threads/230/",
     "author": {
       "name": "eqozqq",
-      "avatar": "https://avatars.githubusercontent.com/u/112166693?v\u003d4"
+      "avatar": "https://avatars.githubusercontent.com/u/112166693?v=4"
     },
     "screenshots": [
       "data/0.8.1/Nether Earth/screen_1.jpg",
@@ -52,7 +52,7 @@
     "original_link": "https://mcpe-inside.ru/texture-packs/3-boxcraft.html",
     "author": {
       "name": "eqozqq",
-      "avatar": "https://avatars.githubusercontent.com/u/112166693?v\u003d4"
+      "avatar": "https://avatars.githubusercontent.com/u/112166693?v=4"
     },
     "screenshots": [
       "data/0.11.0/BoxCraft/screen_1_1766603642256.jpg",
@@ -72,11 +72,26 @@
     "original_link": "https://mcpe-inside.ru/texture-packs/13-3d-textures.html",
     "author": {
       "name": "eqozqq",
-      "avatar": "https://avatars.githubusercontent.com/u/112166693?v\u003d4"
+      "avatar": "https://avatars.githubusercontent.com/u/112166693?v=4"
     },
     "screenshots": [
       "data/0.12.3/3D Textures/screen_1_1766604623026.jpg",
       "data/0.12.3/3D Textures/screen_2_1766604624917.jpg"
     ]
+  },
+  {
+    "title": "Faithful 32x32",
+    "version": "0.8.1",
+    "short_description": "Faithful 32x32",
+    "full_description": "",
+    "date": "2026-06-18 14:13",
+    "type": "textures",
+    "author": {
+      "name": "eqozqq",
+      "avatar": "https://avatars.githubusercontent.com/u/112166693?v=4"
+    },
+    "thumbnail": "data/0.8.1/Faithful 32x32/thumb_1781792010684.jpg",
+    "file": "data/0.8.1/Faithful 32x32/Faithful 32x32.zip",
+    "original_link": "http://www.nostalgiaforum.rf.gd/index.php?threads/306/"
   }
 ]
