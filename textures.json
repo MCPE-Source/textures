@@ -94,5 +94,25 @@
     "file": "data/0.8.1/Faithful 32x32/Faithful 32x32.zip",
     "thumbnail": "data/0.8.1/Faithful 32x32/thumb_1781792010684.jpg",
     "updated_date": "2026-06-18 14:22"
+  },
+  {
+    "title": "Alphastalgia TexturePack",
+    "version": "0.8.1",
+    "short_description": "Alphastalgia V4 TexturePack",
+    "full_description": "Alphastalgia V4 TexturePack\nПортирован с Minecraft Alpha версий.\nОсобенности текстурпака:\n1. Заменяет текстуру блоков и предметов.\n2. 80% текстурпака переведено на русский язык.\n2. Имеет встроенный жирный шрифт.\n3. Имеет эмодзи.\nКак использовать эмодзи?\nЗаглавные буквы «Ы, Ь, Ъ, Ё»",
+    "date": "2026-06-18 14:53",
+    "type": "textures",
+    "author": {
+      "name": "eqozqq",
+      "avatar": "https://avatars.githubusercontent.com/u/112166693?v=4"
+    },
+    "thumbnail": "data/0.8.1/Alphastalgia TexturePack/thumb_1781794386997.jpg",
+    "file": "data/0.8.1/Alphastalgia TexturePack/Alphastalgia TexturePack.zip",
+    "screenshots": [
+      "data/0.8.1/Alphastalgia TexturePack/screen_1_1781794389329.jpg",
+      "data/0.8.1/Alphastalgia TexturePack/screen_2_1781794391302.jpg"
+    ],
+    "alt_link": "http://www.nostalgiaforum.rf.gd/index.php?attachments/982/",
+    "original_link": "http://www.nostalgiaforum.rf.gd/index.php?threads/430/"
   }
 ]
