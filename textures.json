@@ -83,15 +83,16 @@
     "title": "Faithful 32x32",
     "version": "0.8.1",
     "short_description": "Faithful 32x32",
-    "full_description": "",
+    "full_description": "Faithful 32x32",
     "date": "2026-06-18 14:13",
     "type": "textures",
     "author": {
       "name": "eqozqq",
       "avatar": "https://avatars.githubusercontent.com/u/112166693?v=4"
     },
-    "thumbnail": "data/0.8.1/Faithful 32x32/thumb_1781792010684.jpg",
+    "original_link": "http://www.nostalgiaforum.rf.gd/index.php?threads/306/",
     "file": "data/0.8.1/Faithful 32x32/Faithful 32x32.zip",
-    "original_link": "http://www.nostalgiaforum.rf.gd/index.php?threads/306/"
+    "thumbnail": "data/0.8.1/Faithful 32x32/thumb_1781792010684.jpg",
+    "updated_date": "2026-06-18 14:22"
   }
 ]
