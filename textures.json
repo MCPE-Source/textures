@@ -187,5 +187,25 @@
     ],
     "alt_link": "http://www.nostalgiaforum.rf.gd/index.php?attachments/109/",
     "original_link": "http://www.nostalgiaforum.rf.gd/index.php?threads/66/"
+  },
+  {
+    "title": "Last Days",
+    "version": "0.8.1",
+    "short_description": "Last Days texture for MCPE 0.8.1",
+    "full_description": "",
+    "date": "2026-06-18 15:08",
+    "type": "textures",
+    "author": {
+      "name": "eqozqq",
+      "avatar": "https://avatars.githubusercontent.com/u/112166693?v=4"
+    },
+    "thumbnail": "data/0.8.1/Last Days/thumb_1781795282430.jpg",
+    "file": "data/0.8.1/Last Days/Last Days.zip",
+    "screenshots": [
+      "data/0.8.1/Last Days/screen_1_1781795284249.jpg",
+      "data/0.8.1/Last Days/screen_2_1781795285849.jpg"
+    ],
+    "alt_link": "http://www.nostalgiaforum.rf.gd/index.php?attachments/45/",
+    "original_link": "https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-texture-packs/1973167-0-8-1-last-days-pocket-edition"
   }
 ]
