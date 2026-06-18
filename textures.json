@@ -114,5 +114,21 @@
     ],
     "alt_link": "http://www.nostalgiaforum.rf.gd/index.php?attachments/982/",
     "original_link": "http://www.nostalgiaforum.rf.gd/index.php?threads/430/"
+  },
+  {
+    "title": "R3dCraft",
+    "version": "0.8.1",
+    "short_description": "R3dCraft for MCPE 0.8.1",
+    "full_description": "",
+    "date": "2026-06-18 14:58",
+    "type": "textures",
+    "author": {
+      "name": "eqozqq",
+      "avatar": "https://avatars.githubusercontent.com/u/112166693?v=4"
+    },
+    "thumbnail": "data/0.8.1/R3dCraft/thumb_1781794717845.jpg",
+    "file": "data/0.8.1/R3dCraft/R3dCraft.zip",
+    "alt_link": "https://minecraft-pe.clan.su/load/0-0-0-34-20",
+    "original_link": "http://www.nostalgiaforum.rf.gd/index.php?threads/305/"
   }
 ]
