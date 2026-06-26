@@ -353,5 +353,27 @@
     ],
     "alt_link": "http://www.mediafire.com/download/dd76juq8yy8hynq/wayukian_0.7.2.zip",
     "original_link": "http://www.nostalgiaforum.rf.gd/index.php?threads/105/"
+  },
+  {
+    "title": "Wayukian",
+    "version": "0.7.3, 0.7.5",
+    "short_description": "Wayukian texture pack for MCPE 0.7.3-0.7.5",
+    "full_description": "",
+    "date": "2026-06-26 10:29",
+    "type": "textures",
+    "author": {
+      "name": "eqozqq",
+      "avatar": "https://avatars.githubusercontent.com/u/112166693?v=4"
+    },
+    "thumbnail": "data/0.7.3,_0.7.5/Wayukian/thumb_1782469765746.jpg",
+    "file": "data/0.7.3,_0.7.5/Wayukian/Wayukian.zip",
+    "screenshots": [
+      "data/0.7.3,_0.7.5/Wayukian/screen_1_1782469767761.jpg",
+      "data/0.7.3,_0.7.5/Wayukian/screen_2_1782469773681.jpg",
+      "data/0.7.3,_0.7.5/Wayukian/screen_3_1782469777104.jpg",
+      "data/0.7.3,_0.7.5/Wayukian/screen_4_1782469779706.jpg"
+    ],
+    "alt_link": "http://www.mediafire.com/download/m676ea7pj95z4dw/wayukian_0.7.3.zip",
+    "original_link": "http://www.nostalgiaforum.rf.gd/index.php?threads/105/"
   }
 ]
