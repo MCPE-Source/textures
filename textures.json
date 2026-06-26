@@ -239,5 +239,21 @@
     "file": "data/0.7.x/John Smith/John Smith.rar",
     "alt_link": "https://www.mediafire.com/download/0ebqpns0qt1s06y/John_Smith.rar",
     "original_link": "http://www.nostalgiaforum.rf.gd/index.php?threads/53/"
+  },
+  {
+    "title": "John Smith",
+    "version": "0.5.0",
+    "short_description": "John Smith MCPE 0.5.0 texture pack",
+    "full_description": "",
+    "date": "2026-06-26 10:18",
+    "type": "textures",
+    "author": {
+      "name": "eqozqq",
+      "avatar": "https://avatars.githubusercontent.com/u/112166693?v=4"
+    },
+    "thumbnail": "data/0.5.0/John Smith/thumb_1782469096744.jpg",
+    "file": "data/0.5.0/John Smith/John Smith.zip",
+    "alt_link": "http://www.mediafire.com/?0nu7hapvoe7c752",
+    "original_link": "http://www.nostalgiaforum.rf.gd/index.php?threads/99/"
   }
 ]
