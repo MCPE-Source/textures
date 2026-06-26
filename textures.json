@@ -274,5 +274,24 @@
     ],
     "alt_link": "http://www.mediafire.com/?wkxkxs8a0x64tpa",
     "original_link": "http://www.nostalgiaforum.rf.gd/index.php?threads/100/"
+  },
+  {
+    "title": "DokucraftLight32x32",
+    "version": "0.5.0",
+    "short_description": "DokucraftLight32x32 texture pack for MCPE 0.5.0",
+    "full_description": "",
+    "date": "2026-06-26 10:22",
+    "type": "textures",
+    "author": {
+      "name": "eqozqq",
+      "avatar": "https://avatars.githubusercontent.com/u/112166693?v=4"
+    },
+    "thumbnail": "data/0.5.0/DokucraftLight32x32/thumb_1782469321744.jpg",
+    "file": "data/0.5.0/DokucraftLight32x32/DokucraftLight32x32.zip",
+    "screenshots": [
+      "data/0.5.0/DokucraftLight32x32/screen_1_1782469323043.jpg"
+    ],
+    "alt_link": "http://www.mediafire.com/?71x9azm5d5zzmp6",
+    "original_link": "http://www.nostalgiaforum.rf.gd/index.php?threads/101/"
   }
 ]
