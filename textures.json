@@ -460,5 +460,21 @@
     ],
     "alt_link": "http://www.mediafire.com/?kcml9hihjo0tarj",
     "original_link": "http://www.nostalgiaforum.rf.gd/index.php?threads/108/"
+  },
+  {
+    "title": "Willpack",
+    "version": "0.9.x",
+    "short_description": "Willpack MCPE 0.9.x texture pack",
+    "full_description": "",
+    "date": "2026-06-26 10:39",
+    "type": "textures",
+    "author": {
+      "name": "eqozqq",
+      "avatar": "https://avatars.githubusercontent.com/u/112166693?v=4"
+    },
+    "thumbnail": "data/0.9.x/Willpack/thumb_1782470330745.jpg",
+    "file": "data/0.9.x/Willpack/Willpack.zip",
+    "alt_link": "https://www.mediafire.com/file/h7efn7tqpwwk0or/Willpack.zip/file",
+    "original_link": "http://www.nostalgiaforum.rf.gd/index.php?threads/226/"
   }
 ]
