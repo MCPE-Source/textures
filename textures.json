@@ -309,5 +309,27 @@
     "file": "data/0.5.0/CharlieCraft16x16/CharlieCraft16x16.zip",
     "alt_link": "http://www.mediafire.com/?i477igr1sgmggj4",
     "original_link": "http://www.nostalgiaforum.rf.gd/index.php?threads/102/"
+  },
+  {
+    "title": "NESCraft",
+    "version": "0.7.2",
+    "short_description": "NESCraft texture pack for MCPE 0.7.2",
+    "full_description": "",
+    "date": "2026-06-26 10:25",
+    "type": "textures",
+    "author": {
+      "name": "eqozqq",
+      "avatar": "https://avatars.githubusercontent.com/u/112166693?v=4"
+    },
+    "thumbnail": "data/0.7.2/NESCraft/thumb_1782469499264.jpg",
+    "file": "data/0.7.2/NESCraft/NESCraft.zip",
+    "screenshots": [
+      "data/0.7.2/NESCraft/screen_1_1782469500688.jpg",
+      "data/0.7.2/NESCraft/screen_2_1782469502219.jpg",
+      "data/0.7.2/NESCraft/screen_3_1782469503905.jpg",
+      "data/0.7.2/NESCraft/screen_4_1782469505296.jpg"
+    ],
+    "alt_link": "http://www.mediafire.com/download/pmlt31me4t6gc7p/NES_0.7.2.zip",
+    "original_link": "http://www.nostalgiaforum.rf.gd/index.php?threads/103/"
   }
 ]
