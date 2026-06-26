@@ -331,5 +331,27 @@
     ],
     "alt_link": "http://www.mediafire.com/download/pmlt31me4t6gc7p/NES_0.7.2.zip",
     "original_link": "http://www.nostalgiaforum.rf.gd/index.php?threads/103/"
+  },
+  {
+    "title": "Wayukian",
+    "version": "0.7.2",
+    "short_description": "Wayukian texture pack for MCPE 0.7.2",
+    "full_description": "",
+    "date": "2026-06-26 10:28",
+    "type": "textures",
+    "author": {
+      "name": "eqozqq",
+      "avatar": "https://avatars.githubusercontent.com/u/112166693?v=4"
+    },
+    "thumbnail": "data/0.7.2/Wayukian/thumb_1782469671744.jpg",
+    "file": "data/0.7.2/Wayukian/Wayukian.zip",
+    "screenshots": [
+      "data/0.7.2/Wayukian/screen_1_1782469673313.jpg",
+      "data/0.7.2/Wayukian/screen_2_1782469674997.jpg",
+      "data/0.7.2/Wayukian/screen_3_1782469676677.jpg",
+      "data/0.7.2/Wayukian/screen_4_1782469679324.jpg"
+    ],
+    "alt_link": "http://www.mediafire.com/download/dd76juq8yy8hynq/wayukian_0.7.2.zip",
+    "original_link": "http://www.nostalgiaforum.rf.gd/index.php?threads/105/"
   }
 ]
